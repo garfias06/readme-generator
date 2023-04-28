@@ -27,15 +27,16 @@ const questions = [
     name: 'usage',
   },
   {
-    type: 'list',
+    type: 'input',
     message: 'Credits (Collaborators, info resources):',
     name: 'credits',
-    choices: ['MIT', 'Apache', 'None'],
+    
   },
   {
-    type: 'input',
+    type: 'list',
     message: 'License:',
     name: 'license',
+    choices: ['MIT', 'Apache', 'None'],
   },
   {
     type: 'input',
