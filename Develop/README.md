@@ -1,27 +1,33 @@
-# README-Generator
+# Readme Generator.
 
-## Description
-This application will save the user time when redacting a readme document by just providing information about the project, usage, installation and other sections listed.
-Pseudo coding was important to develop this app as well as learning how to work with modularization, exporting and importing data from different files and the importance of using npm packages to make software development more efficient.
+  ![MIT](https://img.shields.io/badge/LICENSE-MIT-blue)
 
-## Installation
-Node.js and npm inquirer package had to be installed in order to develop this app.
+  ## Description:
+  This application will save the user time when redacting a readme document by just providing information about the project, usage, installation and other sections listed.
 
-## Usage
-Click on the following link for a video demonstration of this app:
-https://drive.google.com/file/d/16SwSuUlMLJS-gpU4cMNMLktizVlO7umc/view
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Features](#features)
+  - [How to contribute](#how-to-contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-## Credits
-https://www.w3schools.com/
-https://www.screencastify.com/
-https://shields.io/category/license/
-Tutor: Jose Lopez
+  ## Installation:
+  npm install inquirer@8.2.4.
 
-## License
+  ## Usage:
+  node index.js.
 
-MIT License
+  ## Credits:
+  node.js.
 
-Copyright (c) [2023] [Ulises-Garfias]
+  ## License:
+  MIT License
+
+Copyright (c) [2023] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -40,3 +46,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+  ## Features:
+  NONE.
+
+  ## How to Contribute:
+  Open source.
+
+  ## Tests:
+  npm test.
+
+  ## Questions:
+  If you have questions about the repository, open an issue or contact me directly at garfias06_23@outlook.com or GitHub Profile: github.com/garfias06.
