@@ -19,10 +19,10 @@
   npm install inquirer@8.2.4.
 
   ## Usage:
-  node index.js.
+  node index.js to run the app on the terminal.
 
   ## Credits:
-  node.js.
+  Node.js.
 
   ## License:
   MIT License
@@ -48,13 +48,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
   ## Features:
-  NONE.
+  None.
 
   ## How to Contribute:
-  Open source.
+  Open Source.
 
   ## Tests:
-  npm test.
+  none.
 
   ## Questions:
   If you have questions about the repository, open an issue or contact me directly at garfias06_23@outlook.com or GitHub Profile: github.com/garfias06.
